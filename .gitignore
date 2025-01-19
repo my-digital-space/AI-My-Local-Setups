@@ -17,5 +17,6 @@ buildNumber.properties
 .classpath
 
 # Pro Starts
+MyPythonVirtualEnvironments/.env
 MyPythonVirtualEnvironments/myenv1
 # Pro Ends
